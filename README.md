@@ -16,9 +16,11 @@ Be The Hero
     
 <h2> Instalação </h2>
 <p>Clone este repositório usando: 
+  
 ```
 git clone:https://github.com/EmilyGMG/be-the-hero.git 
- ```
+```
+ 
 </p>
 
 <h2>Backend</h2>
