@@ -9,10 +9,10 @@ Be The Hero
 <p align="center">Semana Omnistack 11.0</p>
 
 <h2>Tecnologias Usadas</h2>
-     * Node.js - Backend
-     * React - Frontend web
-     * React Native / Expo - Mobile
-     * SQLite - Banco de dados
+     <p>  Node.js - Backend </p>
+     <p>  React - Frontend web <p>
+     <p>  React Native / Expo - Mobile </p>
+     <p>  SQLite - Banco de dados </p>
     
 <h2> Instalação </h2>
 <p>Clone este repositório usando: 
