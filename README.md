@@ -35,7 +35,7 @@ git clone:https://github.com/EmilyGMG/be-the-hero.git
 <p>
   
   ```
-  $ npm start Ira iniciar o servidor backend na localhost:3333\
+  $ npm start - inicia o servidor backend na localhost:3333\
   ```
   
 </p>
@@ -52,7 +52,7 @@ git clone:https://github.com/EmilyGMG/be-the-hero.git
 <p>
   
   ```
-  $ npm start Ira iniciar o servidor Frontend na localhost:3000\ 
+  $ npm start - inicia o servidor Frontend na localhost:3000\ 
   ```
   
 </p>
@@ -70,7 +70,7 @@ git clone:https://github.com/EmilyGMG/be-the-hero.git
 <p>
   
   ```
-  $ npm start Ira iniciar o servidor de desenvolvimento do Expo
+  $ npm start - Ira iniciar o servidor de desenvolvimento do Expo
   ```
   
 </p>
